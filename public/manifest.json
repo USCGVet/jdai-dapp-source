@@ -1,7 +1,7 @@
 {
   "short_name": "JDAI DApp",
-  "name": "JDAI Gold-Pegged Stablecoin",
-  "description": "Decentralized gold-pegged stablecoin protocol on PulseChain",
+  "name": "JDAI Gold-Pegged Unstablecoin",
+  "description": "Decentralized gold-pegged unstablecoin protocol on PulseChain",
   "icons": [
     {
       "src": "favicon.ico",
